@@ -1,0 +1,1 @@
+java -jar ./../../target/PlayerSingleProcess-1.0-SNAPSHOT.jar
